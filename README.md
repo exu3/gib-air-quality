@@ -22,3 +22,7 @@ docker-compose up
 - Deployment instructions: idk
 
 - ...idk. ??? profit
+
+This is what it looks like:
+
+![Screen Shot 2021-12-24 at 3 38 57 AM](https://user-images.githubusercontent.com/72365100/147349755-38a4c91d-0a10-466c-be94-f883543c0732.png)
