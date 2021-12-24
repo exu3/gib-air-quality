@@ -1,2 +1,11 @@
-<h1>Home#index</h1>
-<p>Find me in app/views/home/index.html.erb</p>
+<h1>What the air quality right now???</h1>
+<div>
+    <p class="h1"><%= @air_quality %>&nbsp;<span class="c-<%= @aqi_color %> circle">&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+    <p>is the current ozone air quality readout.</p>
+    <p>Refresh the page to update the reading.</p>
+
+    <p>The data comes from <a href="https://airnow.gov">AirNow</a>.</p>
+</div>
+
+<br/>
+
